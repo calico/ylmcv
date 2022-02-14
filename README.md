@@ -1,5 +1,8 @@
 # Yeast Lifespan Machine Computer Vision Models
 
+Note that this repository has some large files stored using git lfs. Please install [git lfs](https://git-lfs.github.com/) tools before attempting to clone. 
+
+
 ## Installation
 
 Create the environment using the following command
