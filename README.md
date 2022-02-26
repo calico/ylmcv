@@ -7,7 +7,7 @@ Note that this repository has some large files stored using git lfs. Please inst
 
 Create the environment using the following command
 
-`conda env create -f environments.yml`
+`conda env create -f environment.yml`
 
 ## Running the example prediction
   ```conda activate ylmcv
